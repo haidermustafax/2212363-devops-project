@@ -45,7 +45,7 @@ def health(db: Session = Depends(get_db)):
     return {
         "status": "ok",
         "db": db_status,
-        "student": "BSCS-2212363",   # <-- YOUR REGISTRATION NUMBER
+        "student": "2212363",   # <-- YOUR REGISTRATION NUMBER
     }
 
 
