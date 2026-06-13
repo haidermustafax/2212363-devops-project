@@ -1,6 +1,7 @@
 # BSCS-2212363 — DevOps Final Project
 
-> **Student:** BSCS-2212363
+> **Student:** Haider Mustafa
+> **Registration Number:** 2212363
 > **Course:** DevOps Fundamentals
 > **Live URL:** http://13.51.150.179:8000/health
 
